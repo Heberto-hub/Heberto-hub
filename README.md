@@ -1,12 +1,9 @@
-Heberto Rivas- 👋 Hi, I’m @Heberto-Rivas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Heberto-hub/Heberto-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+  "User": {
+    "Name": "Heberto",
+    "lastName": "Rivas",
+    "occupation": ["Mechanical Engineer", "Operations Supervisor", "Learning the art of programming"],
+    "aboutMe": [ "I am characterized by my love for teamwork.", "Learning new skills and giving my best.", "Helping others."],
+    "passions": ["Being at the forefront of continuous improvement"]
+  }
+}
